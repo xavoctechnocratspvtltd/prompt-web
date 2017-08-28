@@ -107,3 +107,7 @@
     .xepan-grid .paginator{
       padding: 17px 0;
     }
+
+    .atk-form-error,.atk-effect-danger, .has-error{
+      color: red;
+    }
